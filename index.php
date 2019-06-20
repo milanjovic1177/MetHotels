@@ -9,7 +9,7 @@
 <body>
 	<p>
 	<?php
-		echo "Milan Jovic 1177";
+		echo "Milan Jovic 1177<br> Ovo je Met Hotels web stranica!";
     	?>
 	</p>
 </body>
